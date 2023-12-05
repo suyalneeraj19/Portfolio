@@ -389,7 +389,7 @@ nav .fas{
     }
 }
 #msg{
-    color: #52a7b6;
+    color: linear-gradient(135deg,#cf9aff,#95c0ff);
     margin-top: -10px;
     display: block;
 }
