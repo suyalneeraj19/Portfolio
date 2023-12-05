@@ -384,7 +384,7 @@ nav .fas{
     }
 }
 #msg{
-    color: #61b752;
+    color: linear-gradient(135deg,#cf9aff,#95c0ff);;
     margin-top: -10px;
     display: block;
 }
